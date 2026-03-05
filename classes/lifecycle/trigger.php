@@ -34,11 +34,9 @@ class trigger extends base_automatic {
         return 'tool_lcenddatedelaytrigger';
     }
 
-    public function get_plugin_name()
-    {
+    public function get_plugin_name() {
         return get_string('pluginname', 'tool_lcenddatedelaytrigger');
     }
-
     public function get_plugin_description() {
         return get_string('plugindescription', 'tool_lcenddatedelaytrigger');
     }
