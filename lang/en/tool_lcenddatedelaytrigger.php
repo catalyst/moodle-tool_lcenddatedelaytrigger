@@ -15,6 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 $string['pluginname'] = 'Course end date delay trigger';
+$string['plugindescription'] = 'This trigger allows triggering a process if the course end date is passed for a given amount of time.';
 $string['privacy:metadata'] = 'The plugin does not store any personal data.';
 $string['delay'] = 'Delay from end of course until starting a process.';
 $string['delay_help'] = 'The trigger will be invoked if the time passed since the course has ended is longer than this delay.';
